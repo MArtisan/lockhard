@@ -5,3 +5,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
+
+### Check remote repo upstream connections
+
+- git remote -v
+- ls -al ~/.ssh
